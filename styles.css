@@ -1,0 +1,8 @@
+* {
+    box-sizing: border-box;
+}
+
+.div1 > h2 {
+    text-align: center;
+    padding-top: 300px;
+}
